@@ -1,0 +1,19 @@
+/* sidebar */
+.sidebar{
+    height: 100%;
+    width: 160px;
+    position: fixed;
+    background-color: steelblue;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidebar a{
+    color: wheat;
+    display: block;
+    text-decoration: none;
+}
+
+body{
+    font-family: Candara, sans-serif;
+}
