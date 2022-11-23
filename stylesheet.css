@@ -24,10 +24,20 @@ body{
 
 /* footer */
 footer {
-  text-align: center;
-  padding: 3px;
-  background-color: steelblue;
-  color: wheat;
+    text-align: center;
+    padding: 30px;
+    background-color: steelblue;
+    color: wheat;
+}
+
+footer a{
+    color: wheat;
+    display: block;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: papayawhip;
 }
 
 /* main text */
