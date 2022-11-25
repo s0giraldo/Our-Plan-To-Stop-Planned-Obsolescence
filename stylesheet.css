@@ -2,6 +2,15 @@ body{
     font-family: Candara, sans-serif;
 }
 
+h1{
+    color: rosybrown;
+    border-color: bisque;
+}
+
+p{
+    color: cornflowerblue;
+}
+
 /* sidebar */
 .sidebar{
     height: 100%;
