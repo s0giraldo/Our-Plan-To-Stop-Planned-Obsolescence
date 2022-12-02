@@ -8,20 +8,16 @@
 <body>
 
 <form action="mailto:info@w3docs.com" onsubmit="return validateForm()" method="get" name="myForm" id="myForm">
-    <div>
+    <div id="main">
       <label for="name">Name:</label>
       <input type="text" name="fname" id="name" />
-    </div>
-    <div>
       <label for="email">Email:</label>
       <input type="text" name="email" id="email" />
-    </div>
-    <div>
+        <div>
       <label>Comments:</label>
-      <br />
+      <br/>
       <textarea name="comments" rows="12" cols="35">Send your comments to us.</textarea>
-    </div>
-    <div>
+        </div>
       <input type="submit" name="submit" value="Send" />
       <input type="reset" name="reset" value="Clear Form" />
     </div>

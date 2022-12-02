@@ -54,3 +54,28 @@ footer a:hover{
     margin-left: 160px; /* Same as the width of the sidebar */
     padding: 0px 10px;
 }
+
+#myForm{
+    text-align: center;
+    color: rosybrown;
+    background-color: lemonchiffon;
+}
+
+div#main{
+    position: absolute;
+    height: 100%;
+    width:100%;
+    background-color: lemonchiffon;
+    font-family: "Comic Sans MS", sans-serif;
+}
+
+textarea{
+    color: saddlebrown;
+    border-color: rosybrown;
+    border-width: thick;
+}
+
+input{
+    border-color: saddlebrown;
+    border-width: medium;
+}
