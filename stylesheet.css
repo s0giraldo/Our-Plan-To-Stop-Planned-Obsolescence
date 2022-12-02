@@ -55,6 +55,7 @@ footer a:hover{
     padding: 0px 10px;
 }
 
+
 #myForm{
     text-align: center;
     color: rosybrown;
@@ -78,4 +79,13 @@ textarea{
 input{
     border-color: saddlebrown;
     border-width: medium;
+}
+
+ol a{
+    text-decoration: none;
+    color: black;
+}
+
+ol a:hover{
+    color: dimgray;
 }
