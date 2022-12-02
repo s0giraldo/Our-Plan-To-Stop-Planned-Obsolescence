@@ -63,7 +63,7 @@ footer a:hover{
 }
 
 div#main{
-    position: absolute;
+    position: fixed;
     height: 100%;
     width:100%;
     background-color: lemonchiffon;
@@ -79,6 +79,8 @@ textarea{
 input{
     border-color: saddlebrown;
     border-width: medium;
+    font-family: "Comic Sans MS", sans-serif;
+    background-color: ghostwhite;
 }
 
 ol a{
